@@ -1,10 +1,4 @@
 # Guitar Fret Navigator
-### MATH 2056 — Discrete Mathematics · Algoma University · Winter 2026
-
-Automatic guitar tablature generation from symbolic pitch sequences using
-A\* graph search guided by a bidirectional transformer encoder-decoder.
-
----
 
 ## Quick start (inference only — no GPU required)
 
