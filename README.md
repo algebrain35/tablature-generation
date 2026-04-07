@@ -233,20 +233,3 @@ heuristic parameters (α = 0.36, β = 0.184), GProTab evaluation corpus (n=50, s
 
 All systems achieve 100% pitch accuracy — the pitch-constrained graph structure
 guarantees only positions producing the correct pitch are considered at each node.
-
----
-
-## Citation
-
-> Guitar Fret Navigator: Automatic Tablature Generation via A\* Graph Search
-> and Bidirectional Transformers. MATH 2056 Discrete Mathematics Project,
-> Algoma University, Winter 2026.
-
-Key external references:
-
-- Edwards et al., "MIDI-to-Tab: Guitar Tablature Inference via Masked
-  Language Modeling," ISMIR 2024. arXiv:2408.05024
-- Hart, Nilsson & Raphael, "A Formal Basis for the Heuristic Determination
-  of Minimum Cost Paths," IEEE Trans. Systems Science, 1968.
-- Zang et al., "SynthTab: Leveraging Synthesized Data for Guitar Tablature
-  Transcription," ICASSP 2024. arXiv:2309.09085
